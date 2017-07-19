@@ -1,9 +1,9 @@
 # Site settings
-title: Portfolioblomi
+title: Portfolio-bilong-mi
 baseurl: "/slim"
 email: haluskua.one@gmail.com
 url: ""
-tagline: "A basic exercise test to Jekyll"
+tagline: "run by jekyll on github"
 
 # Build settings
 kramdown:
@@ -14,3 +14,5 @@ permalink: pretty
 # just leave blank to disable it
 google_analytics: 
 disqus_shortname: 
+
+

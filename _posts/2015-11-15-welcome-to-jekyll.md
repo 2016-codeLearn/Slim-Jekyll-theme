@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll{a test exercise site!"
+title:  "Creativity is something I enjoy most"
 date:   2015-11-15 19:02:34 +0800
 author: "Omphalus Kua"
 ---

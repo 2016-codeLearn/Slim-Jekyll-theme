@@ -8,10 +8,12 @@
 }
 
 .site-title {
-    font-size: 1.5rem;
-    font-weight: 300;
-    letter-spacing: -1px;
-    color: $grey-color-dark;
+    font-family: times;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-variant: small-caps;
+    color: #af3f7c;
 
     &,
     &:hover {
@@ -68,17 +70,29 @@
  * Posts
  */
 .post-header {
+    display: flex;
+    flex-direction: column;
     margin-bottom: $spacing-unit;
+    justify-content: flex-start;
 }
 
 .post-title {
     font-size: 2rem;
-    letter-spacing: -1px;
+    letter-spacing: -3px;
     line-height: 1;
+    color: black;
+    margin: 0 auto;
 }
 
 .post-meta {
     font-size: $small-font-size;
+    color: $grey-color;
+    margin-top: 20px;
+}
+
+.blog-post-title {
+    letter-spacing: -2.8px;
+    font-size: 1.3em;
     color: $grey-color;
 }
 
