@@ -1,7 +1,9 @@
 # Site settings
-title: slim
+title: Portfolioblomi
 baseurl: "/slim"
-url: "http://syaning.com"
+email: haluskua.one@gmail.com
+url: ""
+tagline: "A basic exercise test to Jekyll"
 
 # Build settings
 kramdown:

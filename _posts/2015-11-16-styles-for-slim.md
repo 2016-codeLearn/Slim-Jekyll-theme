@@ -2,6 +2,7 @@
 layout: post
 title:  Styles for slim
 date:   2015-11-16  00:00:00
+author: "Omphalus Kua"
 ---
 
 slim is a simple and beautiful jekyll theme, it has only the essential functions
