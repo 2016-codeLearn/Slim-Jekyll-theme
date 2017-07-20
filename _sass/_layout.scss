@@ -14,6 +14,7 @@
     letter-spacing: 3px;
     font-variant: small-caps;
     color: #af3f7c;
+    color: black;
 
     &,
     &:hover {
@@ -32,6 +33,11 @@
     padding: $spacing-unit ($spacing-unit * 0.75);
     margin: 0 auto;
     box-sizing: border-box;
+}
+
+body {
+   background-image: url("/slim/images/1920.png");
+   background-color: aqua;
 }
 
 
